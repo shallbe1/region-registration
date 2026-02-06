@@ -6,6 +6,8 @@ The weights of LightGlue and SAM2 are downloaded and placed according to https:/
 
 Install the required dependencies for LightGlue and SAM2, and install kmeans-pytorch. If necessary, compile the corresponding folders for LightGlue and SAM2.
 
+The code will be released upon the paper's publication.
+
 
 # run
 cd  sam2
